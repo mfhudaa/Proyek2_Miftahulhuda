@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_prestasi_isi">
+        <item>
+            1. Peringkat 1 Penelitian Bidang Humaniora LLDIKTI XI \n
+            2. Peringkat 2 Pengabdian Masyarakat Bidang Humaniora LLDIKTI XI \n
+            3. Peringkat 3 Pengajaran LLDIKTI XI \n
+        </item>
+        <item>
+            1. Peringkat 1 Pekan Olahraga Mahasiswa Tingkat Provinsi \n
+            2. Peringkat 2 Pekan Kreasi Mahasiswa Tingkat Provinsi \n
+            3. Peringkat 3 PKM Tingkat LLDIKTI XI \n
+        </item>
+    </string-array>
+</resources>

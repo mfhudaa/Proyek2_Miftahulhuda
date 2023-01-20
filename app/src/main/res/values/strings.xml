@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Proyek 2 Miftahulhuda</string>
+    <string name="eNim">Silahkan Masukkan NIM Anda</string>
+    <string name="ePass">Silahkan Masukkan Password Anda </string>
+    <string name="bLogin">Login</string>
+    <string name="copyright">
+        <b>IKIP PGRI Pontinak © 2022 P.TIK IKIP PGRI PONTIANAK</b>
+    </string>
+    <string name="tOrg">Nama Perguruan Tinggi</string>
+    <string name="Org">IKIP PGRI Pontianak</string>
+    <string name="tAlamat">Alamat \u0026 Telepon</string>
+    <string name="alamat">Jl. Ampera No. 88 Pontianak \n Kalimantan Barat - Indonesia</string>
+    <string name="telp">0561-748219/0561-6589855 \n rektorat@ikippgriptk.ac.id</string>
+    <string name="tAkreditasi">Akreditasi Perguruan Tinggi</string>
+    <string name="akreditasi">B</string>
+    <string name="tPimpinan">Pimpinan Perguruan Tinggi</string>
+    <string name="tRektor">Rektor</string>
+    <string name="rektor">Muhammad Firdaus, M.Pd</string>
+    <string name="tWarek1">Wakil Rektor I</string>
+    <string name="warek1">Dr.Aunurrahman, M.Pd</string>
+    <string name="tWarek2">Wakil Rektor II</string>
+    <string name="warek2">Suherdiyanto, M.Pd</string>
+
+    <string name="tFakProd">Fakultas \u0026 Program Studi</string>
+    <string name="fakProd">
+        1. Fakultas Ilmu Pendidikan dan Pengetahuan Sosoal \n
+        \t a. Pendidikan Pancasila dan Kewarganegaraan
+        \t b. Bimbingan dan Konseling
+        \t c. Pendidikan Sejarah
+        \t d. Pendidikan Geografi
+        2. Fakultas MIPA dan Teknologi
+        \t a. Pendidikan Matematika
+        \t b. Pendidikan Fisika
+        \t c. Pendidikan Teknologi Informasi
+        \t d. Pendidikan Biologi
+        3. Fakultas Pendidikan Bahasa dan Seni
+        \t a. Pendidikan Bahasa Indonesia
+        \t b. pendidikan Bahasa Inggris
+        4. Fakultas Olahraga dan Kesehatan
+        \t a. Pendidikan Olahraga dan Kesehatan
+    </string>
+    <string name="tVisi">Visi</string>
+    <string name="tMisi">Misi</string>
+    <string name="tSasaran">SASARAN</string>
+    <string name="tJudul">Jenis Prestasi</string>
+    <string name="tIsi">Isi Presentasi</string>
+</resources>
